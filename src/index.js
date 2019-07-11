@@ -1,3 +1,3 @@
 import footer from './footer';
 
-console.log(footer);
+console.log(footer());

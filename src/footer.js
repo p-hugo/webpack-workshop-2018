@@ -1,1 +1,1 @@
-export default "footer here";
+export default () => "footer here";
