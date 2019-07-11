@@ -1,2 +1,4 @@
-export const styles = "style sheets here";
-export const scripts = "scripts for analytics";
+const styles = "style sheets here";
+const scripts = "scripts for analytics";
+
+export { styles, scripts };
