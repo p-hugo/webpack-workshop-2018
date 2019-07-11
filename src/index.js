@@ -1,3 +1,4 @@
-import footer from './footer';
+import footer from "./footer";
+import { styles, scripts } from "./header";
 
-console.log(footer());
+console.log(footer(), styles, scripts);
