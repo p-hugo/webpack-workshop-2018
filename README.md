@@ -29,3 +29,8 @@ These steps will assume that you have `cd`'d in your preferred editor to this re
 
 ## Resources
 * [Slides](https://docs.google.com/presentation/d/1RuTDSvfaEFBFQ-3OiyxtuPTaGhv-xv7OG4jt5mpIdUw/edit?usp=sharing)
+
+
+## Personal Notes:
+
+I ran into some problems with `webpack-dev-server` on the browser. Reference [this stack overflow](https://stackoverflow.com/questions/56391711/how-to-fix-uncaught-typeerror-cannot-read-property-call-of-undefined-in-web) discussion to learn more.
