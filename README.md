@@ -33,11 +33,11 @@ Tip: Use `git checkout BRANCH_NAME -f` to jump into a given branch. The `-f` wil
 * Email: sean.larkin@microsoft.com
 * Twitter: [@TheLarkInn](https://twitter.com/thelarkinn)
 
-<<<<<<< HEAD
+
 ## Support for the Courses
 * Log a [Github issue](https://github.com/thelarkinn/webpack-workshop-2018/issues) if there's an issue with the code.
 * Email: support@frontendmasters.com if you have a general issue with the courses.
-=======
+
 ## Resources
 * [Slides](https://docs.google.com/presentation/d/1RuTDSvfaEFBFQ-3OiyxtuPTaGhv-xv7OG4jt5mpIdUw/edit?usp=sharing)
 
@@ -45,4 +45,3 @@ Tip: Use `git checkout BRANCH_NAME -f` to jump into a given branch. The `-f` wil
 ## Personal Notes:
 
 I ran into some problems with `webpack-dev-server` on the browser. Reference [this stack overflow](https://stackoverflow.com/questions/56391711/how-to-fix-uncaught-typeerror-cannot-read-property-call-of-undefined-in-web) discussion to learn more.
->>>>>>> feature/03-fem-debug-script
